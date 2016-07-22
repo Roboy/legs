@@ -3,3 +3,8 @@ devel/
 *.o
 cmake
 .catkin_workspace
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+raspicam_opencv
